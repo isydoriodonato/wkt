@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/27 18:36:24.000.983,=D:\wkteste\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2022/09/27 18:36:24.000.304,=D:\wkteste\FormUnit1.pas</Transaction>
+    <Transaction>2022/09/27 18:36:24.000.834,=D:\wkteste\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/09/27 18:36:24.000.659,=D:\wkteste\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2022/09/27 18:36:24.000.967,=D:\wkteste\js\base64.js</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.316,=D:\wkteste\css\main.css</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.567,=D:\wkteste\images\expand.png</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.347,=D:\wkteste\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.036,=D:\wkteste\js\callbackframework.js</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.014,=D:\wkteste\js\json2.js</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.441,=D:\wkteste\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.191,=D:\wkteste\js\callbackframework-min.js</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.410,=D:\wkteste\templates\reversestring.html</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.067,=D:\wkteste\js\serverfunctions.js</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.269,=D:\wkteste\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.535,=D:\wkteste\images\collapse.png</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.130,=D:\wkteste\js\json2-min.js</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.222,=D:\wkteste\js\connection.js</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.158,=D:\wkteste\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2022/09/27 18:36:25.000.098,=D:\wkteste\js\base64-min.js</Transaction>
+    <Transaction>2022/09/27 18:37:53.000.415,D:\wkteste\FormUnit1.fmx=D:\wkteste\ServerUnit.fmx</Transaction>
+    <Transaction>2022/09/27 18:37:53.000.415,D:\wkteste\FormUnit1.pas=D:\wkteste\ServerUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>

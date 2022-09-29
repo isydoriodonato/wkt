@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{61177DD2-7E96-432F-A7E5-271E0A1E287B}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="wkteste.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="clienteWKTeste.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="wkteste">
+        <MSBuild Projects="wkteste.dproj"/>
+    </Target>
+    <Target Name="wkteste:Clean">
+        <MSBuild Projects="wkteste.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="wkteste:Make">
+        <MSBuild Projects="wkteste.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="clienteWKTeste">
+        <MSBuild Projects="clienteWKTeste.dproj"/>
+    </Target>
+    <Target Name="clienteWKTeste:Clean">
+        <MSBuild Projects="clienteWKTeste.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="clienteWKTeste:Make">
+        <MSBuild Projects="clienteWKTeste.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="wkteste;clienteWKTeste"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="wkteste:Clean;clienteWKTeste:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="wkteste:Make;clienteWKTeste:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

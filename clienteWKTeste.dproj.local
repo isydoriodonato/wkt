@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/16 09:43:42.000.821,=C:\Users\Isydório\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/17 07:02:21.000.933,=C:\Users\Isydório\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/15 11:36:06.000.264,=C:\Users\Isydório\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/27 18:47:14.000.921,=C:\Users\Isydório\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/09/27 18:48:11.000.642,=C:\Users\Isydório\Documents\Embarcadero\Studio\Projects\ClientModuleUnit1.pas</Transaction>
+    <Transaction>2022/09/27 18:48:11.000.522,=C:\Users\Isydório\Documents\Embarcadero\Studio\Projects\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2022/09/27 18:49:17.000.848,D:\wkteste\ClientUnit.pas=C:\Users\Isydório\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/09/27 18:49:17.000.848,D:\wkteste\ClientUnit.fmx=C:\Users\Isydório\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2022/09/27 18:49:29.000.279,D:\wkteste\ClientModuleUnit1.dfm=C:\Users\Isydório\Documents\Embarcadero\Studio\Projects\ClientModuleUnit1.dfm</Transaction>
+    <Transaction>2022/09/27 18:49:29.000.279,D:\wkteste\ClientModuleUnit1.pas=C:\Users\Isydório\Documents\Embarcadero\Studio\Projects\ClientModuleUnit1.pas</Transaction>
+    <Transaction>2022/09/27 18:49:35.000.119,D:\wkteste\ClientClassesUnit1.pas=C:\Users\Isydório\Documents\Embarcadero\Studio\Projects\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2022/09/27 18:50:21.000.161,D:\wkteste\clienteWKTeste.dproj=C:\Users\Isydório\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
